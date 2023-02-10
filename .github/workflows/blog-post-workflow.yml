@@ -9,6 +9,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
-      - uses: gautamkrishnar/blog-post-workflow@master
+      - uses: TetianaTkachenko-qa/blog-post-workflow@master
         with:
-          feed_list: "https://stackoverflow.com/feeds/user/TetianaTkachenko-qa"
+          feed_list: "https://dev.to/feed/TetianaTkachenko-qa,https://www.TetianaTkachenko-qa.com/feed/"
