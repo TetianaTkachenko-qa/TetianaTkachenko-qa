@@ -4,13 +4,12 @@
 
 ### Portfolio
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 - [Test_Case](https://github.com/TetianaTkachenko-qa/Test_Case.git)
 - [Bug_Report](https://github.com/TetianaTkachenko-qa/Bug_Report.git)
 - [User_Story+reqeirements](https://github.com/TetianaTkachenko-qa/User_Story-reqeirements.git)
 - [Checklist](https://github.com/TetianaTkachenko-qa/Checklist.git)
 - [MySQL](https://github.com/TetianaTkachenko-qa/MySQL.git)
+<!-- BLOG-POST-LIST:END -->
 
 
 ![Diploma](https://github.com/TetianaTkachenko-qa/TetianaTkachenko-qa/blob/main/assets/QA_Engineer_(eng).jpg)
