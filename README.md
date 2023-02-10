@@ -12,6 +12,5 @@
 - [Checklist](https://github.com/TetianaTkachenko-qa/Checklist.git)
 - [MySQL](https://github.com/TetianaTkachenko-qa/MySQL.git)
 
-<br /> 
 
 Diploma
