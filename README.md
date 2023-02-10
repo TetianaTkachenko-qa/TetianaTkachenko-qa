@@ -13,4 +13,5 @@
 - [MySQL](https://github.com/TetianaTkachenko-qa/MySQL.git)
 
 
-Diploma
+![Diploma](https://github.com/TetianaTkachenko-qa/TetianaTkachenko-qa/blob/main/assets/QA_Engineer_(eng).jpg)
+
